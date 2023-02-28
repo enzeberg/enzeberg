@@ -1,4 +1,4 @@
-[![铜钟 / Tonzhon](/images/tonzhon.webp)](https://tonzhon.com)
+[![铜钟 / Tonzhon](/images/tonzhon_860_140_r25.webp)](https://tonzhon.com)
 
 <!-- [Tonzhon](https://tonzhon.com) |  -->
 [Tetris](https://enzeberg.github.io/tetris/) | 
