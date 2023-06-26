@@ -9,6 +9,8 @@
 
 ## Computer Vision
 [train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn)
+### Datasets
+[occluded_fishes](https://huggingface.co/datasets/enzeberg/occluded_fishes)
 
 ## React
 [tonzhon-lite](https://github.com/enzeberg/tonzhon-lite) | 
