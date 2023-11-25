@@ -1,7 +1,9 @@
-[![铜钟 / Tonzhon](/images/tonzhon_860_140_r25.webp)](https://tonzhon.com)
+<!-- [![铜钟 / Tonzhon](/images/tonzhon_860_140_r25.webp)](https://tonzhon.com) -->
 
 ## Education
 大学专业: 机械设计制造及其自动化
+
+SCI paper: https://www.mdpi.com/2076-3417/13/23/12645
 
 ## Games
 [Tritetris](https://enzeberg.github.io/tritetris/) | 
