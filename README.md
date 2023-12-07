@@ -3,7 +3,7 @@
 ## Education
 大学专业: 机械设计制造及其自动化
 
-SCI paper: https://www.mdpi.com/2076-3417/13/23/12645
+SCI paper: https://www.mdpi.com/2574224
 
 ## Games
 [Tritetris](https://enzeberg.github.io/tritetris/) | 
@@ -13,8 +13,7 @@ SCI paper: https://www.mdpi.com/2076-3417/13/23/12645
 [Initialism](https://github.com/enzeberg/initialism)
 
 ## Computer Vision
-[train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn)
-### Datasets
+[train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn) |
 [crowded_fishes](https://huggingface.co/datasets/enzeberg/crowded_fishes) |
 [occluded_fishes](https://huggingface.co/datasets/enzeberg/occluded_fishes)
 
