@@ -18,10 +18,7 @@
 [ga](https://github.com/enzeberg/ga)
 
 # Games
-## Whamon Games
-https://games.whamon.com/tritetris/ | 
-https://games.whamon.com/rebound/ | 
-https://games.whamon.com/tetris/ | 
+## Whamon Games: https://games.whamon.com
 ## Flash Games
 [Keep Going](https://github.com/enzeberg/keep-going) | 
 [Initialism](https://github.com/enzeberg/initialism)
