@@ -7,6 +7,7 @@
 | 研究生 | 计算机技术 | SCI Paper: https://www.mdpi.com/2574224
 
 # 铜钟 (Tonzhon): https://tonzhon.whamon.com
+# Whamon Games: https://games.whamon.com
 
 # Computer Vision
 [train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn) |
@@ -16,12 +17,6 @@
 # Algorithms
 [leetcode](https://github.com/enzeberg/leetcode) | 
 [ga](https://github.com/enzeberg/ga)
-
-# Games
-## Whamon Games: https://games.whamon.com
-## Flash Games
-[Keep Going](https://github.com/enzeberg/keep-going) | 
-[Initialism](https://github.com/enzeberg/initialism)
 
 # React
 [tonzhon-lite](https://github.com/enzeberg/tonzhon-lite) | 
