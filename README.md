@@ -8,6 +8,7 @@
 
 # 铜钟 (Tonzhon): https://tonzhon.whamon.com
 ## 铜钟宇宙 (Tonzhon Universe): https://tonzhon-universe.whamon.com
+# AI Chatbot: https://ai-chatbot-by-li-enze.netlify.app
 # Whamon Games: https://games.whamon.com
 
 # Computer Vision
