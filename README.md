@@ -1,5 +1,3 @@
-<!-- [![铜钟 / Tonzhon](/images/tonzhon_860_140_r25.webp)](https://tonzhon.com) -->
-
 # Education
 | 学历 | 专业 | 论文
 |------|------|------
@@ -8,8 +6,7 @@
 
 # 铜钟 (Tonzhon): https://tonzhon.whamon.com
 ## 铜钟宇宙 (Tonzhon Universe): https://tonzhon-universe.whamon.com
-# AI Chatbot: https://ai-chatbot-by-li-enze.netlify.app
-# Whamon Games: https://games.whamon.com
+# [AI Chatbot](https://ai-chatbot-by-li-enze.netlify.app), [ComfyUI Studio](https://comfyui-studio.netlify.app), [Whamon Games](https://games.whamon.com)
 
 # Computer Vision
 [train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn) |
@@ -19,13 +16,3 @@
 # Algorithms
 [leetcode](https://github.com/enzeberg/leetcode) | 
 [ga](https://github.com/enzeberg/ga)
-
-# React
-[tonzhon-lite](https://github.com/enzeberg/tonzhon-lite) | 
-[tonzhon-lite-mobile](https://github.com/enzeberg/tonzhon-lite-mobile) | 
-[Nap Alarm](https://enzeberg.github.io/nap-alarm/)
-
-# Node.js
-[chatroom](https://github.com/enzeberg/chatroom) | 
-[zhihu-image-crawler](https://github.com/enzeberg/zhihu-image-crawler) | 
-[diary](https://github.com/enzeberg/diary)
