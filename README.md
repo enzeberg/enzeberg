@@ -1,4 +1,4 @@
-# [Whamon Art](https://art.whamon.com), [Whamon Games](https://games.whamon.com)
+# [Whamon Diagram](https://diagram.whamon.com), [Whamon Art](https://art.whamon.com), [Whamon Games](https://games.whamon.com)
 
 # [铜钟 Tonzhon](https://tonzhon.whamon.com), [铜钟宇宙 (Tonzhon Universe)](https://universe.tonzhon.whamon.com)
 
