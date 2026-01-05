@@ -1,5 +1,3 @@
-# [Whamon Diagram](https://diagram.whamon.com), [Whamon Art](https://art.whamon.com), [Whamon Games](https://games.whamon.com)
-
 # [铜钟 Tonzhon](https://tonzhon.whamon.com), [铜钟宇宙 (Tonzhon Universe)](https://universe.tonzhon.whamon.com)
 
 # [AI Image Generator](https://art.whamon.com/ai-image-generator), [AI Chatbot](https://ai-chatbot-by-li-enze.netlify.app), [ComfyUI Studio](https://comfyui-studio.netlify.app)
