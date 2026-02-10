@@ -1,7 +1,5 @@
 # [铜钟 Tonzhon](https://tonzhon.whamon.com), [铜钟宇宙 (Tonzhon Universe)](https://universe.tonzhon.whamon.com)
 
-# [AI Image Generator](https://art.whamon.com/ai-image-generator), [AI Chatbot](https://ai-chatbot-by-li-enze.netlify.app), [ComfyUI Studio](https://comfyui-studio.netlify.app)
-
 # Computer Vision
 [train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn) |
 [crowded_fishes](https://huggingface.co/datasets/enzeberg/crowded_fishes) |
