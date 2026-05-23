@@ -1,5 +1,3 @@
-# [铜钟 Tonzhon](https://tonzhon.whamon.com), [铜钟宇宙 (Tonzhon Universe)](https://universe.tonzhon.whamon.com)
-
 # Computer Vision
 [train-faster-rcnn](https://github.com/enzeberg/train-faster-rcnn) |
 [crowded_fishes](https://huggingface.co/datasets/enzeberg/crowded_fishes) |
